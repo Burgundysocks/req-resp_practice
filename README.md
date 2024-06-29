@@ -5,4 +5,5 @@
 
 ●MappingController를 통해 다양한 요청 매핑에 대해 공부
 
+●@RequestParam및 @ModelAttribute와 다양한 방법으로 요청보내는 것 공부
 
